@@ -1,1 +1,4 @@
-<h1>Hello ITF<h1>
+<?ph
+echo "<h2>PHP is Fun!</h2>";
+echo "Hello world<br>";
+?>
